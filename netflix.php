@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Netflix RSS Feeder
-Plugin URI: http://www.leviathanc.com/
+Plugin URI: http://www.leviathanc.com/netflix-rss-feeder/
 Plugin Version: 1.0
 Description: This plugin displays RSS Feed from your Netflix account.  
 A Netflix account is required. Go to 
