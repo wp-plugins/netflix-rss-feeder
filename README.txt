@@ -4,7 +4,7 @@ Contributors: Levi Coplen
 Donate link: http://www.leviathanc.com/
 Tags: netflix, rss, feed, widget
 Requires at least: 2.0.2
-Tested up to: 2.6.3
+Tested up to: 3.1
 Stable tag: trunk
 
 == Description ==
@@ -13,7 +13,7 @@ Netflix RSS Feeder is a WordPress plugin to display your Netflix's List of
 At Homes, Queue, Recommendations, Reviews, Notifications and Watch Instantly 
 Queue on your blog sidebar. Also, it's widgetized.
 
-Requirements: Up to Wordpress Version 2.6.3, A NetFlix account.
+Requirements: Up to Wordpress Version 3.1, A NetFlix account.
 
 == Installation ==
 
@@ -38,4 +38,6 @@ Requirements: Up to Wordpress Version 2.6.3, A NetFlix account.
 
 == Changelog ==
 
-Netflix 1.0 - 4/17/2008 - Initial Release
+Version 1.0.0 - 04/17/2008 - Initial Release
+Version 1.0.1 - 11/17/2009 - Retest if the current version still work with WP 2.8
+Version 1.1   - 02/28/2011 - Fix the minor error

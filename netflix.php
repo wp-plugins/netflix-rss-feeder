@@ -3,7 +3,7 @@
 /*
 Plugin Name: Netflix RSS Feeder
 Plugin URI: http://www.leviathanc.com/netflix-rss-feeder/
-Plugin Version: 1.0
+Version: 1.1
 Description: This plugin displays RSS Feed from your Netflix account.  
 A Netflix account is required. Go to 
 <a href="wp-admin/options-general.php?page=netflix/netflix.php">Netflix Option</a>.
@@ -12,7 +12,7 @@ Author URI: http://www.leviathanc.com
 License: GPL
 
     Netflix RSS Feeder - Display Netflix RSS from account on WordPress Blog
-    Copyright (C) 2007, 2008 Levi Coplen
+    Copyright (C) 2007-2011 Levi Coplen
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -25,9 +25,7 @@ License: GPL
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-Version 1.0 - Initial Release
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
 */
 
 function shownetflix_admin_menu()
